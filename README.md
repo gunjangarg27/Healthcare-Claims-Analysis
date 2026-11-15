@@ -1,4 +1,8 @@
-# Hospital encounters, diagnoses and claims
+## 🚀 Live Interactive Dashboard
+
+**[Click here to explore the Healthcare Claims Dashboard](https://gunjangarg27.github.io/Healthcare-Claims-Analysis/)**
+
+Explore the Executive Summary, Denial Analysis, Payer & Revenue, and Provider & Patient dashboard pages.# Hospital encounters, diagnoses and claims
 
 Patients, providers, encounters, ICD-10 diagnoses, prescriptions, labs and insurance claims that reconcile from billed to paid.
 
