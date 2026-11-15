@@ -1,0 +1,9 @@
+{
+  "engine": "misata-studio",
+  "pack": "healthcare",
+  "overrides": {
+    "patients": 1500
+  },
+  "seed": 20260921,
+  "blueprint_hash": "8c8ef1dcee3cb646d59bf3c82e1e5e91b37fb4a15c21d312c06a74154d81b5c1"
+}

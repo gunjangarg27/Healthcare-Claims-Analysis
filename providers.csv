@@ -1,0 +1,61 @@
+provider_id,provider_name,specialty,npi,facility
+1,Benedikt Oosterhuis,primary_care,1000000001,Riverside Medical Center
+2,Juana Andrés,psychiatry,1000000002,Northgate Regional Hospital
+3,Ping Vo,emergency_medicine,1000000003,Lakeview Community Hospital
+4,Theo Holmes,primary_care,1000000004,Riverside Medical Center
+5,Heather Trujillo,cardiology,1000000005,Northgate Regional Hospital
+6,Lotte Runge,emergency_medicine,1000000006,Riverside Medical Center
+7,Aoife Harris,general_surgery,1000000007,Summit Health Clinic
+8,Óscar Ramos,cardiology,1000000008,Northgate Regional Hospital
+9,Gemma Khan,obstetrics_gynecology,1000000009,Harborview Specialty Center
+10,Gaurav Unnikrishnan,orthopedics,1000000010,Summit Health Clinic
+11,Neha Shanmugam,pulmonology,1000000011,Lakeview Community Hospital
+12,Claudia Orozco,neurology,1000000012,Summit Health Clinic
+13,Elliot Bennett,orthopedics,1000000013,Summit Health Clinic
+14,Khoa Gao,cardiology,1000000014,Summit Health Clinic
+15,Brenda Franco,primary_care,1000000015,Riverside Medical Center
+16,Tuan Ko,endocrinology,1000000016,Northgate Regional Hospital
+17,Akshay Pillai,obstetrics_gynecology,1000000017,Summit Health Clinic
+18,Hui Jung,obstetrics_gynecology,1000000018,Harborview Specialty Center
+19,Benjamin Mann,primary_care,1000000019,Northgate Regional Hospital
+20,Catherine Chambers,obstetrics_gynecology,1000000020,Harborview Specialty Center
+21,Shreya Chandran,primary_care,1000000021,Northgate Regional Hospital
+22,Alexander Pineda,emergency_medicine,1000000022,Cedar Park Urgent Care
+23,Martín Rocha,obstetrics_gynecology,1000000023,Lakeview Community Hospital
+24,Reem Chahine,primary_care,1000000024,Northgate Regional Hospital
+25,Yaw Ndlovu,emergency_medicine,1000000025,Cedar Park Urgent Care
+26,Carl Bradley,neurology,1000000026,Summit Health Clinic
+27,Franck Clerc,psychiatry,1000000027,Riverside Medical Center
+28,Nader Sarkis,endocrinology,1000000028,Lakeview Community Hospital
+29,Dean Garrett,obstetrics_gynecology,1000000029,Northgate Regional Hospital
+30,Ximena Otero,endocrinology,1000000030,Riverside Medical Center
+31,Ping Hoang,gastroenterology,1000000031,Summit Health Clinic
+32,Salman Singh,orthopedics,1000000032,Riverside Medical Center
+33,Harish Abraham,cardiology,1000000033,Riverside Medical Center
+34,Jyoti Saxena,pulmonology,1000000034,Northgate Regional Hospital
+35,Esmeralda Quiroz,gastroenterology,1000000035,Summit Health Clinic
+36,Ezra Glover,emergency_medicine,1000000036,Summit Health Clinic
+37,Ignazio Girard,cardiology,1000000037,Lakeview Community Hospital
+38,Adaeze Gyamfi,psychiatry,1000000038,Summit Health Clinic
+39,Saad Habib,psychiatry,1000000039,Riverside Medical Center
+40,David Gregory,psychiatry,1000000040,Riverside Medical Center
+41,Kylie Farmer,primary_care,1000000041,Summit Health Clinic
+42,Tushar Lal,neurology,1000000042,Summit Health Clinic
+43,Sophie Fritz,neurology,1000000043,Harborview Specialty Center
+44,Koen Stoll,endocrinology,1000000044,Riverside Medical Center
+45,Mansi Garg,primary_care,1000000045,Cedar Park Urgent Care
+46,Fergus Moran,orthopedics,1000000046,Cedar Park Urgent Care
+47,Tariq Ghanem,primary_care,1000000047,Cedar Park Urgent Care
+48,Camila Vidal,pulmonology,1000000048,Riverside Medical Center
+49,Lan Peng,primary_care,1000000049,Summit Health Clinic
+50,Naomi Park,emergency_medicine,1000000050,Northgate Regional Hospital
+51,Sushma Kulkarni,primary_care,1000000051,Riverside Medical Center
+52,Ramesh Mishra,endocrinology,1000000052,Riverside Medical Center
+53,Tomás Esquivel,emergency_medicine,1000000053,Riverside Medical Center
+54,Cameron Carter,emergency_medicine,1000000054,Northgate Regional Hospital
+55,Deepika Vyas,obstetrics_gynecology,1000000055,Northgate Regional Hospital
+56,Li Seo,general_surgery,1000000056,Lakeview Community Hospital
+57,Carolina Lopez,primary_care,1000000057,Riverside Medical Center
+58,Christian Huang,primary_care,1000000058,Harborview Specialty Center
+59,Valerio Casale,primary_care,1000000059,Cedar Park Urgent Care
+60,Mariam Joshi,pulmonology,1000000060,Riverside Medical Center
